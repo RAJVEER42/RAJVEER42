@@ -1,0 +1,189 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+}
+
+body {
+    background: linear-gradient(45deg, #280b88, #6f0b66);
+    background-size: 400% 400%;
+    animation: gradientAnimationTobackground 6s ease infinite;
+}
+
+@keyframes gradientAnimationTobackground {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.wrapper {
+    width: 85vw;
+    min-height: 50vmin;
+    padding: 50px 30px;
+    background: rgba(188, 184, 184, 0.463);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.25);
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.editor {
+    min-height: 35vmin;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.editor label {
+    font-size: 2.8vmin;
+    color: #1f1e1f;
+    font-weight: 400;
+}
+
+.editor input[type="range"] {
+    display: block;
+    width: 100%;
+    position: relative;
+    margin-top: 5px;
+}
+
+.flip-buttons {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.flip-buttons .flip-option {
+    margin-top: 10px;
+}
+
+.result {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.result img {
+    display: block;
+    position: relative;
+    max-width: calc(100% - 4vmin);
+    max-height: 45vmin;
+    margin: auto;
+}
+
+.image-container {
+    display: none;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.result label {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 220px;
+    background-color: #025bee;
+    color: #ffffff;
+    text-align: center;
+    padding: 16px 0;
+    border-radius: 5px;
+    font-size: 2.8vmin;
+    font-weight: 400;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.result label:hover {
+    background-color: #023d98;
+    transform: scale(1.05);
+}
+
+.download-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#download-button {
+    background-color: #ff6600;
+    color: #ffffff;
+    font-size: 2.8vmin;
+    font-weight: 500;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border: none;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 15px;
+}
+
+#download-button:hover {
+    background-color: #e65c00;
+    transform: scale(1.05);
+}
+
+#download-button:active {
+    background-color: #cc5200;
+}
+
+.name {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #cecaca;
+}
+
+@media screen and (max-width: 620px) {
+    .wrapper {
+        width: 95vw;
+        grid-template-columns: 1fr;
+        padding: 30px 20px;
+        gap: 10px;
+    }
+
+    .editor {
+        grid-row: 2;
+    }
+
+    .flip-buttons {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .flip-buttons .flip-option {
+        margin-top: 0;
+    }
+
+    #download-button {
+        width: 100%;
+        font-size: 3.5vmin;
+        padding: 14px 0;
+    }
+}
