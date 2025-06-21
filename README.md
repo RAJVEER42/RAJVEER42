@@ -100,7 +100,7 @@
 
 ## 📫 Let's Connect
 
-- 📬 Email: [rajveerbishnoi@email.com](mailto:rajveerbishnoi@email.com)
+- 📬 Email: [irajveer.bishnoi2310@email.com](mailto:irajveer.bishnoi2310@email.com)
 - 💼 LinkedIn: [linkedin.com/in/rajveerbishnoi](https://www.linkedin.com/in/rajveerbishnoi) *(Add if active)*
 - 🌐 GitHub: [@RAJVEER42](https://github.com/RAJVEER42)
 
