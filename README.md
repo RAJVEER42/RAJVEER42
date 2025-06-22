@@ -80,10 +80,6 @@
 
 ## 🔥 Open Source Contributions (SSOC’25)
 
-### 🔹 [Saumy1905/PYQFort](https://github.com/Saumy1905/PYQFort)
-- 📁 Added syllabus & 16+ PYQs for 1st Sem  
-  PRs: [#111](https://github.com/Saumy1905/PYQFort/pull/111), [#112](https://github.com/Saumy1905/PYQFort/pull/112)
-
 ### 🔸 [Fenirok/Earthquake_app](https://github.com/Fenirok/Earthquake_app)
 - 🧭 Implemented time-range filter feature  
   PR: [#25](https://github.com/Fenirok/Earthquake_app/pull/25)
