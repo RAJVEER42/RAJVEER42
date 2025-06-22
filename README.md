@@ -96,6 +96,10 @@
 - 📘 Improved documentation clarity and comment structure  
   PR: [#22](https://github.com/Prateek9876/NagarVikas/pull/22)
 
+### 🔸 [Kirti-Rathi/PromptShell](https://github.com/Kirti-Rathi/PromptShell)
+- 🔒 Added a second-layer safeguard for `CONFIRM:` commands to prevent accidental destructive actions  
+  PR: [#63](https://github.com/Kirti-Rathi/PromptShell/pull/63)
+
 ---
 
 ## 📫 Let's Connect
