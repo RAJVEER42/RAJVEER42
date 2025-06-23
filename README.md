@@ -96,6 +96,11 @@
 - 🔒 Added a second-layer safeguard for `CONFIRM:` commands to prevent accidental destructive actions  
   PR: [#63](https://github.com/Kirti-Rathi/PromptShell/pull/63)
 
+### 🔸 [Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit](https://github.com/Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit)
+- 📄 Enhanced the project's README with badges, quotes, and improved contributor-friendly structure  
+  PR: [#1](https://github.com/Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit/pull/1) — _merged_
+
+
 ---
 
 ## 📫 Let's Connect
