@@ -102,8 +102,8 @@
 
 ###🔸 SSOC/Open-PYQ
 - 📘 Completed Task 1.1.2 – Syllabus & Project Structure by adding the syllabus for one course
-🔗 PR: #25
-🏆 Earned 20 points in SSOC S
+  PR: #25
+  🏆 Earned 20 points in SSOC S
 
 ---
 
