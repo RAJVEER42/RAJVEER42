@@ -101,9 +101,14 @@
   PR: [#1](https://github.com/Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit/pull/1) — _merged_
 
 ### 🔸 [SSOC/Open-PYQ](https://github.com/SSOC/Open-PYQ)  
-- 📘 Completed Task 1.1.2 – Syllabus & Project Structure by adding the syllabus for one course  
-  🔗 Pull Request: [#25](https://github.com/SSOC/Open-PYQ/pull/25)  
-  🏆 Earned 20 points in SSOC S4
+- 📘 Completed [Task 1.1.2 – Syllabus & Project Structure](https://github.com/SSOC/Open-PYQ/issues/13)  
+- 🏆 Earned **20 points** in **SSOC S4**  
+  🔗 PR: [#25](https://github.com/SSOC/Open-PYQ/pull/25)
+
+
+![Task Completed Screenshot](./assets/screen_shot.png)  
+_✅ Task officially marked as completed by the project maintainer._
+
 
 ---
 
