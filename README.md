@@ -100,6 +100,10 @@
 - 📄 Enhanced the project's README with badges, quotes, and improved contributor-friendly structure  
   PR: [#1](https://github.com/Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit/pull/1) — _merged_
 
+🔸 SSOC/Open-PYQ
+📘 Completed Task 1.1.2 – Syllabus & Project Structure by adding the syllabus for one course
+🔗 PR: #25
+🏆 Earned 20 points in SSOC S
 
 ---
 
