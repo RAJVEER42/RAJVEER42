@@ -115,7 +115,7 @@ _✅ Task officially marked as completed by the project maintainer._
 ## 📫 Let's Connect
 
 - 📬 Email: [irajveer.bishnoi2310@email.com](mailto:irajveer.bishnoi2310@email.com)
-- 💼 LinkedIn: [linkedin.com/in/rajveerbishnoi](https://www.linkedin.com/in/rajveerbishnoi) *(Add if active)*
+- 💼 LinkedIn: [linkedin.com/in/rajveerbishnoi](https://www.linkedin.com/in/rajveerbishnoi)
 - 🌐 GitHub: [@RAJVEER42](https://github.com/RAJVEER42)
 
 ---
