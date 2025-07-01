@@ -125,7 +125,7 @@ _✅ Task officially marked as completed by the project maintainer._
 
 ---
 
-> _"Leadership is not about being in charge. It's about taking care of those in your charge." — Simon Sinek_
+> "I'm not a great programmer; I'm just a good programmer with great habits." — Kent Beck
 
 <!---
 RAJVEER42/RAJVEER42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
