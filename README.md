@@ -109,6 +109,13 @@
 ![Task Completed Screenshot](./assets/screen_shot.png)  
 _✅ Task officially marked as completed by the project maintainer._
 
+### 🔸 [Fenirok/Earthquake_app](https://github.com/Fenirok/Earthquake_app)
+- ♻️ Resolved merge conflict in `README.md` by merging content from both `time-range-filter` and `test1` branches  
+  - Cleaned up conflict markers  
+  - Combined and clarified setup steps, feature list, and contributing guidelines  
+  - Improved grammar, formatting, and consistency throughout the file  
+  - Ensured users are instructed to create PRs against the `test1` branch only  
+  PR: [#34](https://github.com/Fenirok/Earthquake_app/pull/34)
 
 ---
 
