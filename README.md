@@ -128,7 +128,7 @@ _✅ Task officially marked as completed by the project maintainer._
 ---
 
 ## ⚡ Fun Fact  
-> I bring the same fire from the **basketball court** to the **code editor** — teamwork, hustle, and precision matter everywhere!
+> I bring the same fire from the **basketball court** to the **code editor** — teamwork, hustle, and precision matter everywhere! ✌️
 
 ---
 
