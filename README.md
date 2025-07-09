@@ -84,10 +84,6 @@
 
 ## 🔥 Open Source Contributions (SSOC’25)
 
-### 🔸 [Fenirok/Earthquake_app](https://github.com/Fenirok/Earthquake_app)
-- 🧭 Implemented time-range filter feature  
-  PR: [#25](https://github.com/Fenirok/Earthquake_app/pull/25)
-
 ### 🔸 [PromptShell CLI Tool](https://github.com/Kirti-Rathi/PromptShell)
 - 🔁 Enhanced command safety and exit functionality  
   PR: [#30](https://github.com/Kirti-Rathi/PromptShell/pull/30)
@@ -109,6 +105,9 @@
 - 🏆 Earned **20 points** in **SSOC S4**  
   🔗 PR: [#25](https://github.com/SSOC/Open-PYQ/pull/25)
 
+### 🔸 [Fenirok/Earthquake_app](https://github.com/Fenirok/Earthquake_app)
+- 🧭 Implemented time-range filter feature  
+  PR: [#25](https://github.com/Fenirok/Earthquake_app/pull/25)
 
 ![Task Completed Screenshot](./assets/screen_shot.png)  
 _✅ Task officially marked as completed by the project maintainer._
