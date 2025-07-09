@@ -1,4 +1,4 @@
-# 🍁 Hi, I'm  Rajveer Bishnoi
+<h1 align="center">🍁 Hi, I'm  Rajveer Bishnoi</h1>
 
 [![](https://img.shields.io/badge/Scaler%20School%20of%20Technology-Student-blue)](https://www.scaler.com/)
 [![](https://img.shields.io/badge/Sports%20Club-President-green)]()
