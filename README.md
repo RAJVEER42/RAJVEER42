@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/SSOC'25-Contributor-brightgreen)]()
 [![](https://img.shields.io/badge/Open%20Source-Contributor-orange)]()
 [![](https://img.shields.io/badge/Location-Jodhpur%2C%20India-red)]() 
-
+ 
 ---
 
 🎓 **Freshman at Scaler School of Technology**  
