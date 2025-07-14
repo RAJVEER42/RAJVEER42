@@ -75,9 +75,7 @@
 
 - ✅ [JavaScript Algorithms and Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/rajveer_bishnoi-ljaads)
 - ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/rajveer_bishnoi-rwd)
-- ✅ Git For Beginners – *Navin Reddy (Udemy, Jul 2025)*  
-  Credential ID: **UC-744c76bf-1648-42dc-97de-ccf962e00b81**
-  [Show Credential](https://ude.my/UC-744c76bf-1648-42dc-97de-ccf962e00b81)
+- ✅ [Git For Beginners – *Navin Reddy](https://ude.my/UC-744c76bf-1648-42dc-97de-ccf962e00b81)
 
 ### ✅ Certified Postman API Fundamentals Student Expert
 
