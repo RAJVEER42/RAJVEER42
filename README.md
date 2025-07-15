@@ -77,13 +77,13 @@
 - ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/rajveer_bishnoi-rwd)
 - ✅ [Git For Beginners – Navin Reddy](https://ude.my/UC-744c76bf-1648-42dc-97de-ccf962e00b81)
 
-### ✅ Certified Postman API Fundamentals Student Expert
+<div  align="center">
+✅ Certified Postman API Fundamentals Student Expert
 
 [![Postman Badge](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A/image)](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A)
 
 Awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks and passing all tests in the Postman Student Expert program.
-
-
+</div>
 
 ---
 
