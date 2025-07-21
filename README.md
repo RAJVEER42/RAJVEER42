@@ -102,7 +102,18 @@ Awarded for demonstrating proficiency with APIs and Postman by completing founda
 
 
 ---
+### 🔸 [rubyforgood/casa](https://github.com/rubyforgood/casa)  
+- 🎨 Completed [UI Hover Effects Enhancement – Navbar, Footer, CTA Button](https://github.com/rubyforgood/casa/pull/6450)  
+- ✅ Pull request successfully merged and closed  
+  🔗 PR: [#6450](https://github.com/rubyforgood/casa/pull/6450)  
+- 🤝 Collaborated on review, discussion, and implementation of interactive UI improvements to boost user engagement  
 
+
+~ 🚀 I’ve actively contributed to Ruby for Good — a well-regarded nonprofit building open-source tools for real-world impact. 
+Working on projects like CASA (supporting foster youth advocacy) sharpened my React, Rails, and UI/UX skills while aligning my work with meaningful purpose. 
+With partners like Habitat for Humanity and the Humane Society, it’s a space for building production-grade, purpose-driven software. 🌱
+
+---
 ---
 
 ## 🔥 Open Source Contributions (SSOC’25)
