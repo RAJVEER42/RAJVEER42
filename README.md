@@ -123,6 +123,15 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 🛠️ PR: [#4 – Glassy Navbar Enhancement](https://github.com/robinsingh-ai/AutomataVerse/pull/4)
 - 📌 Issue: [#1](https://github.com/robinsingh-ai/AutomataVerse/issues/1)
 
+
+### ✨ [itsAnimation – Glassy Navbar UI (#32)](https://github.com/itsAnimation/AnimateItNow/pull/32)
+
+- 💎 Added **modern glassy navbar** using `backdrop-filter` & transparency  
+- 🎨 Clean, responsive design with minimal CSS changes  
+- 📁 Updated only `index.html` & `styles.css`  
+- ✅ Manually tested & cross-browser verified
+
+
 ---
 
 ## 🔥 Open Source Contributions (SSOC’25)
