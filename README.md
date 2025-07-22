@@ -156,7 +156,7 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 🎯 Unified modern styles for better cross-browser compatibility
 - 🧪 Verified responsiveness across desktop and mobile layouts
 - ✅ PR: [#28](https://github.com/sampadatiwari30/DeshDarshan/pull/28) • Related Issues: [#7](https://github.com/sampadatiwari30/DeshDarshan/issues/7)
-- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 2`
+- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
 
 ---
 
