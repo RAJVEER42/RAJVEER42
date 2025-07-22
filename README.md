@@ -139,13 +139,13 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 🛠️ PR: [#9](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/9) • Issue: #9  
 - 🎉 Merged under `enhancement` • `GSSoC'25 Level 2`
 
-### 🔸 [Password Strength Meter – git-quiz-challenge](https://github.com/RAJVEER42/git-quiz-challenge)
+### 🔸 [Password Strength Meter – TheCawnporeMag]](https://github.com/Kritika75/TheCawnporeMag.github.io)
 
 - 🔐 Added a **real-time password strength meter** to the registration form using the `zxcvbn` library  
 - 🎨 Displayed a dynamic **visual strength bar** with feedback messages (e.g., "Too weak", "Add special characters")  
 - 💡 Enhanced UI/UX with smooth Tailwind transitions and responsive layout  
 - 🧩 Integrated seamlessly into existing auth flow — no breaking changes  
-- 🛠️ PR: [#10](https://github.com/RAJVEER42/git-quiz-challenge/pull/10) • Issue: #6  
+- 🛠️ PR: [10](https://github.com/coderashhar/PG-genie/pull/10) • Issue: #6  
 - 🎉 Merged under `enhancement` • SSOC’25 Level 1
 
 
