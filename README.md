@@ -145,7 +145,7 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 🎨 Displayed a dynamic **visual strength bar** with feedback messages (e.g., "Too weak", "Add special characters")  
 - 💡 Enhanced UI/UX with smooth Tailwind transitions and responsive layout  
 - 🧩 Integrated seamlessly into existing auth flow — no breaking changes  
-- 🛠️ PR: [#10](https://github.com/RAJVEER42/git-quiz-challenge/pull/10) • Issue: #6  
+- 🛠️ PR: [#10]([https://github.com/RAJVEER42/git-quiz-challenge/pull/10](https://github.com/coderashhar/PG-genie/pull/10)) • Issue: #6  
 - 🎉 Merged under `enhancement` • SSOC’25 Level 1
 
 
