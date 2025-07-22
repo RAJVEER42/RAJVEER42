@@ -114,6 +114,15 @@ Working on projects like CASA (supporting foster youth advocacy) sharpened my Re
 With partners like Habitat for Humanity and the Humane Society, it’s a space for building production-grade, purpose-driven software. 🌱
 
 ---
+## ❤️‍🔥 Open Source Contributions (GSSOC’25)
+
+### 🔸 [AutomataVerse](https://github.com/robinsingh-ai/AutomataVerse)
+
+- ✨ Added **glassmorphism** to the navbar using **Tailwind CSS**
+- 🌓 Ensured support for light & dark modes
+- 🛠️ PR: [#4 – Glassy Navbar Enhancement](https://github.com/robinsingh-ai/AutomataVerse/pull/4)
+- 📌 Issue: [#1](https://github.com/robinsingh-ai/AutomataVerse/issues/1)
+
 ---
 
 ## 🔥 Open Source Contributions (SSOC’25)
