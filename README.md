@@ -158,13 +158,13 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - ✅ PR: [#28](https://github.com/sampadatiwari30/DeshDarshan/pull/28) • Related Issues: [#7](https://github.com/sampadatiwari30/DeshDarshan/issues/7)
 - 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
 
-### 🔸 [Glassy UI Enhancement – dashboard-manager](https://github.com/abhisek2004/dashboard-manager)
+### 🔸 [Glassy UI Enhancement – Dev-Elevate](https://github.com/abhisek2004/Dev-Elevate)
 
 - ✨ Added a **modern glassy UI effect** to the navbar and dashboard using Tailwind’s `backdrop-blur`, `bg-opacity`, and `shadow` classes  
 - 🎨 Applied **frosted glass styling** for a cleaner and more refined user interface  
 - 📱 Ensured **full responsiveness** across mobile, tablet, and desktop layouts  
 - 💡 Improved visual clarity without altering functional logic — purely a UI enhancement    
-- 🛠️ PR: [#5](https://github.com/abhisek2004/dashboard-manager/pull/5)  
+- 🛠️ PR: [#5]([https://github.com/abhisek2004/dashboard-manager/pull/5](https://github.com/abhisek2004/Dev-Elevate/pull/5))  
 - 🎉 Merged under `enhancement` • GSSoC'25 Level 1
 
 
