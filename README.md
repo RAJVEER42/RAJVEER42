@@ -131,6 +131,14 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 📁 Updated only `index.html` & `styles.css`  
 - ✅ Manually tested & cross-browser verified
 
+### 🔸 [Glassy Navbar – TheCawnporeMag](https://github.com/Kritika75/TheCawnporeMag.github.io)
+
+- ✨ Added **glassmorphism** to navbar using CSS `backdrop-filter` and blur  
+- 📌 Switched `sticky` → `fixed` for better scroll consistency  
+- ✅ Improved cross-device visibility and design  
+- 🛠️ PR: [#9](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/9) • Issue: #9  
+- 🎉 Merged under `enhancement` • `GSSoC'25 Level 2`
+
 
 ---
 
