@@ -158,6 +158,22 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - ✅ PR: [#28](https://github.com/sampadatiwari30/DeshDarshan/pull/28) • Related Issues: [#7](https://github.com/sampadatiwari30/DeshDarshan/issues/7)
 - 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
 
+- > **💬 Project Admin Feedback**
+
+```markdown
+Hey @RAJVEER42 👋
+
+Thanks for your contribution! ✨  
+I’ve reviewed the PR and the glassy UI effect looks fantastic on both the navbar and dashboard — clean, modern, and super smooth! 💎🚀
+
+Great job and keep shining! 💫  
+— Abhisek Panda (Project Admin) 🛠️
+```
+
+---
+
+📸 **Preview**: [Live Demo on Netlify](https://deploy-preview-19--flavorai.netlify.app)
+
 ### 🔸 [Glassy UI Enhancement – Dev-Elevate](https://github.com/abhisek2004/Dev-Elevate)
 
 - ✨ Added a **modern glassy UI effect** to the navbar and dashboard using Tailwind’s `backdrop-blur`, `bg-opacity`, and `shadow` classes  
