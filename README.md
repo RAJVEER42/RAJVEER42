@@ -177,6 +177,17 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 👥 Feedback addressed from collaborators before final merge  
 - ✅ PR: [#14](https://github.com/Prashanti-Hebbar/FoodIO/pull/14) • Related Issue: [#4](https://github.com/Prashanti-Hebbar/FoodIO/issues/4)  
 - 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
+
+ ### ✨ [Hover Effects – Footer & Auth Buttons – FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+
+- 🖱️ Added **hover effects** to footer links for better interactivity and user feedback
+- 🔐 Improved **Login/Register button UX** with background and text color transitions on hover
+- 🎨 Applied `transition`, `underline`, and `color change` for polished micro-interactions
+- 📁 Updated styling in `style.css` and component classNames to reflect changes
+- 📱 Ensured the UI is now more responsive and intuitive on both desktop and mobile
+- ✅ PR: [#15](https://github.com/Prashanti-Hebbar/FoodIO/pull/15) • Related Issue: [#5](https://github.com/Prashanti-Hebbar/FoodIO/issues/5)
+- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
+
 ---
 
 ## 🔥 Open Source Contributions (SSOC’25)
