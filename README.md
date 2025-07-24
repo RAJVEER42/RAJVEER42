@@ -168,6 +168,15 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - 🎉 Merged under `enhancement` • GSSoC'25 Level 1
 
 
+### ✨ [Glassy Navbar – FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+
+- 🌫️ Introduced **glassmorphism** to the navbar using Tailwind’s `backdrop-blur-md` and semi-transparent backgrounds for a sleek, modern aesthetic  
+- 📌 Changed navbar positioning to ensure **consistent visibility** during scroll interactions  
+- 🎨 Enhanced **UI appeal** with subtle transparency and layering effects to align with modern design trends  
+- 🧪 Tested for responsiveness across devices for a smooth user experience  
+- 👥 Feedback addressed from collaborators before final merge  
+- ✅ PR: [#14](https://github.com/Prashanti-Hebbar/FoodIO/pull/14) • Related Issue: [#4](https://github.com/Prashanti-Hebbar/FoodIO/issues/4)  
+- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
 ---
 
 ## 🔥 Open Source Contributions (SSOC’25)
@@ -207,16 +216,6 @@ _✅ Task officially marked as completed by the project maintainer._
   - Improved grammar, formatting, and consistency throughout the file  
   - Ensured users are instructed to create PRs against the `test1` branch only  
   PR: [#34](https://github.com/Fenirok/Earthquake_app/pull/34)
-
-### ✨ [Glassy Navbar – FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-
-- 🌫️ Introduced **glassmorphism** to the navbar using Tailwind’s `backdrop-blur-md` and semi-transparent backgrounds for a sleek, modern aesthetic  
-- 📌 Changed navbar positioning to ensure **consistent visibility** during scroll interactions  
-- 🎨 Enhanced **UI appeal** with subtle transparency and layering effects to align with modern design trends  
-- 🧪 Tested for responsiveness across devices for a smooth user experience  
-- 👥 Feedback addressed from collaborators before final merge  
-- ✅ PR: [#14](https://github.com/Prashanti-Hebbar/FoodIO/pull/14) • Related Issue: [#4](https://github.com/Prashanti-Hebbar/FoodIO/issues/4)  
-- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
 
 
 ---
