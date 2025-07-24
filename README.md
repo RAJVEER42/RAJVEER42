@@ -188,6 +188,17 @@ With partners like Habitat for Humanity and the Humane Society, it’s a space f
 - ✅ PR: [#15](https://github.com/Prashanti-Hebbar/FoodIO/pull/15) • Related Issue: [#5](https://github.com/Prashanti-Hebbar/FoodIO/issues/5)
 - 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
 
+### ✨ [Glassy Navbar – FlavorAI](https://github.com/Ayushjhawar8/FlavorAI/pull/19)
+
+- 💎 Added **glassy effect** to the navigation bar using modern CSS (`backdrop-filter`, semi-transparency, soft blur)
+- 🎨 Navbar background now becomes slightly opaque on scroll for better readability
+- 🌗 Implemented **text color transition** from white to black when scrolled to enhance contrast
+- 🧪 Ensured cross-browser support and responsiveness across all devices
+- 📁 Changes made in `Navbar.css`, `Navbar.jsx`, and global layout styles
+- 📸 Deployed & previewed successfully: [Netlify Preview](https://deploy-preview-19--flavorai.netlify.app)
+- ✅ PR: [#19](https://github.com/Ayushjhawar8/FlavorAI/pull/19) • Related Issue: [#3](https://github.com/Ayushjhawar8/FlavorAI/issues/3)
+- 🔖 Merged under `enhancement`, `Frontend`, `Level 2`, `gssoc25`
+
 ---
 
 ## 🔥 Open Source Contributions (SSOC’25)
