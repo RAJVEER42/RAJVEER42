@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Location-Jodhpur%2C%20India-red)]()  
  
 ---
-
+ 
 🎓 **Freshman at Scaler School of Technology**  
 🏀 **Sports Club President @ SST**  
 💻 **Tech Enthusiast | Full-Stack Learner | Open Source Contributor**
