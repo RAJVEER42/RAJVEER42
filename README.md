@@ -1,280 +1,129 @@
-<h1 align="center">🍁 Hi, I'm  Rajveer Bishnoi</h1> 
- 
-[![](https://img.shields.io/badge/Scaler%20School%20of%20Technology-Student-blue)](https://www.scaler.com/)
-[![](https://img.shields.io/badge/Sports%20Club-President-green)]() 
-[![](https://img.shields.io/badge/SSOC'25-Contributor-brightgreen)]()
-[![](https://img.shields.io/badge/Open%20Source-Contributor-orange)]()
-[![](https://img.shields.io/badge/Location-Jodhpur%2C%20India-red)]()  
-  
---- 
- 
-🎓 **Freshman at Scaler School of Technology**  
-🏀 **Sports Club President @ SST**  
-💻 **Tech Enthusiast | Full-Stack Learner | Open Source Contributor**
+<h1 align="center">🍁 Rajveer Bishnoi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;SST+Sports+President;ML+Enthusiast" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajveer-bishnoi-576b62356">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RAJVEER42">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:irajveer.bishnoi2310@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Building systems with athlete discipline & engineer precision."</i>
+</p>
 
 ---
 
-## 🚀 About Me
+## ⚡ Quick Byte
 
-- 🎯 Exploring full-stack development, data science & open-source software
-- 📂 Currently contributing to SSOC'25 (Season 4)
-- 🔧 Learning through projects using Python, Java, JavaScript & SQL
-- 🧠 Strong foundation in leadership, event coordination & team management
-- 🏆 Former School Captain | State-level Basketball Player
+I’m a **Software Engineering Student at Scaler School of Technology** who treats coding like a competitive sport.
 
----
-
-## 🧰 Technical Skills
-
-### 💻 Programming & Development
-- Java, JavaScript, HTML, CSS, SQL
-- Python Libraries: **Pandas**, **Seaborn**, **Matplotlib**, **NumPy**
-- Frontend Tools: **Tailwind CSS**, **Bootstrap**, **CSS Flexbox**, **React.js**
-- Responsive Design: **HTML**, **CSS**, **Responsive Web Design Certification**
-
-### 🧪 Tools & Technologies
-- **MySQL**, **Workbench**
-- Git & GitHub for version control
-- Operating Systems & CLI basics
-
-### 📊 Data & Analytics
-- **Pandas (Software)**, **Seaborn**, **Matplotlib**, **NumPy**
-- Working knowledge of data visualization and basic exploratory data analysis
+- 🔭 **Now Building:** High-performance Full-Stack apps & AWS Cloud  
+- 🤝 **Open Source:** GSSoC'25 & SSOC'25 Contributor  
+- 🏆 **Leadership:** President, SST Sports Club  
+- 💬 **Ask me about:** UI/UX, Java, SQL  
 
 ---
 
-## 🎓 Core Academic Courses
-
-- Data Structures & Algorithms  
-- Discrete Mathematics  
-- Operating Systems  
-- Statistics & Probability  
-- SQL & Database Systems  
-- Java Programming
-
----
-
-## 🧠 Soft Skills & Leadership
-
-| Skill                | Experience Backing                                                  |
-|---------------------|-----------------------------------------------------------------------|
-| Leadership           | 3 experiences at Scaler, DPS Jodhpur, New Era High School            |
-| Team Leadership      | Multiple school & college team roles                                 |
-| Time Management      | Sports + Academics + Community Activities                            |
-| Critical Thinking    | DSA, Strategic Planning, Club Work                                   |
-| Communication        | Public Relations, Club Representation                                |
-| Event Planning       | Sports Events, Cultural Functions, School-wide initiatives           |
-| Problem Solving      | Academics + Open Source Collaboration                                |
-| Negotiation          | Event Management & Team Coordination                                 |
-| Passion for Work     | Proven track record in academics and leadership                      |
-| Visionary Thinking   | Long-term planning in sports and education programs                  |
+## 🏆 Achievement Showcase
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-2025-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSOC-2025-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 Certifications
+## 📊 GitHub Activity Graph
 
-- ✅ [JavaScript Algorithms and Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/rajveer_bishnoi-ljaads)
-- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/rajveer_bishnoi-rwd)
-- ✅ [Git For Beginners – Navin Reddy](https://ude.my/UC-744c76bf-1648-42dc-97de-ccf962e00b81)
-
-<div  align="center">
-✅ Certified Postman API Fundamentals Student Expert
-
-[![Postman Badge](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A/image)](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A)
-
-Awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks and passing all tests in the Postman Student Expert program.
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJVEER42&theme=tokyo-night&hide_border=true&radius=12" />
+</p>
 
 ---
 
-<h2  align="center">🎖 AWS Badges</h2>
-<div align="center">
-  <img src="aws-educate-machine-learning-foundations.png" alt="Machine Learning Foundations Badge" width="150">
-  <p><strong>AWS Educate – Machine Learning Foundations</strong><br>
-  Completed coursework covering core ML concepts and AWS ML services.</p>
-</div>
+## 📈 GitHub Metrics
 
-<div align="center">
-  <img src="Resume/AWSEBadge.png" alt="AWS Educate Badge" width="150">
-  <p><strong>AWS Educate – Emerging Talent Member</strong><br>
-  Part of AWS's global network for student developers and cloud learners.</p>
-</div>
-
-
----
-### 🔸 [rubyforgood/casa](https://github.com/rubyforgood/casa)  
-- 🎨 Completed [UI Hover Effects Enhancement – Navbar, Footer, CTA Button](https://github.com/rubyforgood/casa/pull/6450)  
-- ✅ Pull request successfully merged and closed  
-  🔗 PR: [#6450](https://github.com/rubyforgood/casa/pull/6450)  
-- 🤝 Collaborated on review, discussion, and implementation of interactive UI improvements to boost user engagement  
-
-
-~ 🚀 I’ve actively contributed to Ruby for Good — a well-regarded nonprofit building open-source tools for real-world impact. 
-Working on projects like CASA (supporting foster youth advocacy) sharpened my React, Rails, and UI/UX skills while aligning my work with meaningful purpose. 
-With partners like Habitat for Humanity and the Humane Society, it’s a space for building production-grade, purpose-driven software. 🌱
-
----
-## ❤️‍🔥 Open Source Contributions (GSSOC’25)
-
-### 🔸 [AutomataVerse](https://github.com/robinsingh-ai/AutomataVerse)
-
-- ✨ Added **glassmorphism** to the navbar using **Tailwind CSS**
-- 🌓 Ensured support for light & dark modes
-- 🛠️ PR: [#4 – Glassy Navbar Enhancement](https://github.com/robinsingh-ai/AutomataVerse/pull/4)
-- 📌 Issue: [#1](https://github.com/robinsingh-ai/AutomataVerse/issues/1)
-
-
-### ✨ [itsAnimation – Glassy Navbar UI (#32)](https://github.com/itsAnimation/AnimateItNow/pull/32)
-
-- 💎 Added **modern glassy navbar** using `backdrop-filter` & transparency  
-- 🎨 Clean, responsive design with minimal CSS changes  
-- 📁 Updated only `index.html` & `styles.css`  
-- ✅ Manually tested & cross-browser verified
-
-### 🔸 [Glassy Navbar – TheCawnporeMag](https://github.com/Kritika75/TheCawnporeMag.github.io)
-
-- ✨ Added **glassmorphism** to navbar using CSS `backdrop-filter` and blur  
-- 📌 Switched `sticky` → `fixed` for better scroll consistency  
-- ✅ Improved cross-device visibility and design  
-- 🛠️ PR: [#9](https://github.com/Kritika75/TheCawnporeMag.github.io/pull/9) • Issue: #9  
-- 🎉 Merged under `enhancement` • `GSSoC'25 Level 2`
-
-### 🔸 [Password Strength Meter – TheCawnporeMag](https://github.com/RAJVEER42/PG-genie-Rajveer)
-
-- 🔐 Added a **real-time password strength meter** to the registration form using the `zxcvbn` library  
-- 🎨 Displayed a dynamic **visual strength bar** with feedback messages (e.g., "Too weak", "Add special characters")  
-- 💡 Enhanced UI/UX with smooth Tailwind transitions and responsive layout  
-- 🧩 Integrated seamlessly into existing auth flow — no breaking changes  
-- 🛠️ PR: [#10](https://github.com/coderashhar/PG-genie/pull/10) • Issue: #6  
-- 🎉 Merged under `enhancement` • SSOC’25 Level 1
-
-### ✨ [Glassy Navbar & Login Button – DeshDarshan](https://github.com/sampadatiwari30/DeshDarshan)
-
-- 💎 Applied **glassmorphism** to the navbar using `backdrop-filter` and subtle `blur`
-- 📌 Changed navbar position from `sticky` to `fixed` for smoother scroll transitions
-- 🔒 Updated **Login button** color to enhance visibility on dark backgrounds
-- 🎯 Unified modern styles for better cross-browser compatibility
-- 🧪 Verified responsiveness across desktop and mobile layouts
-- ✅ PR: [#28](https://github.com/sampadatiwari30/DeshDarshan/pull/28) • Related Issues: [#7](https://github.com/sampadatiwari30/DeshDarshan/issues/7)
-- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=RAJVEER42&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RAJVEER42&layout=compact&theme=tokyonight&border_radius=12" />
+</p>
 
 ---
 
-📸 **Preview**: [Live Demo on Netlify](https://deploy-preview-19--flavorai.netlify.app)
+## 🧠 Engineering Philosophy
 
-### 🔸 [Glassy UI Enhancement – Dev-Elevate](https://github.com/abhisek2004/Dev-Elevate)
-
-- ✨ Added a **modern glassy UI effect** to the navbar and dashboard using Tailwind’s `backdrop-blur`, `bg-opacity`, and `shadow` classes  
-- 🎨 Applied **frosted glass styling** for a cleaner and more refined user interface  
-- 📱 Ensured **full responsiveness** across mobile, tablet, and desktop layouts  
-- 💡 Improved visual clarity without altering functional logic — purely a UI enhancement    
-- 🛠️ PR: [#5]([https://github.com/abhisek2004/dashboard-manager/pull/5](https://github.com/abhisek2004/Dev-Elevate/pull/5))  
-- 🎉 Merged under `enhancement` • GSSoC'25 Level 1
-
-- > **💬 Project Admin Feedback**
-
-```markdown
-Hey @RAJVEER42 👋
-
-Thanks for your contribution! ✨  
-I’ve reviewed the PR and the glassy UI effect looks fantastic on both the navbar and dashboard — clean, modern, and super smooth! 💎🚀
-
-Great job and keep shining! 💫  
-— Abhisek Panda (Project Admin) 🛠️
-```
+- Code should **scale teams, not just systems**
+- UI should feel **inevitable**
+- Every PR must reduce **cognitive load**
+- Consistency > Motivation > Talent
 
 ---
 
-### ✨ [Glassy Navbar – FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+## ⚙️ Currently Optimizing
 
-- 🌫️ Introduced **glassmorphism** to the navbar using Tailwind’s `backdrop-blur-md` and semi-transparent backgrounds for a sleek, modern aesthetic  
-- 📌 Changed navbar positioning to ensure **consistent visibility** during scroll interactions  
-- 🎨 Enhanced **UI appeal** with subtle transparency and layering effects to align with modern design trends  
-- 🧪 Tested for responsiveness across devices for a smooth user experience  
-- 👥 Feedback addressed from collaborators before final merge  
-- ✅ PR: [#14](https://github.com/Prashanti-Hebbar/FoodIO/pull/14) • Related Issue: [#4](https://github.com/Prashanti-Hebbar/FoodIO/issues/4)  
-- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
-
- ### ✨ [Hover Effects – Footer & Auth Buttons – FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-
-- 🖱️ Added **hover effects** to footer links for better interactivity and user feedback
-- 🔐 Improved **Login/Register button UX** with background and text color transitions on hover
-- 🎨 Applied `transition`, `underline`, and `color change` for polished micro-interactions
-- 📁 Updated styling in `style.css` and component classNames to reflect changes
-- 📱 Ensured the UI is now more responsive and intuitive on both desktop and mobile
-- ✅ PR: [#15](https://github.com/Prashanti-Hebbar/FoodIO/pull/15) • Related Issue: [#5](https://github.com/Prashanti-Hebbar/FoodIO/issues/5)
-- 🔖 Merged under `enhancement`, `GSSoC 25`, `level 1`
-
-### ✨ [Glassy Navbar – FlavorAI](https://github.com/Ayushjhawar8/Flavor-ai)
-
-- 💎 Added **glassy effect** to the navigation bar using modern CSS (`backdrop-filter`, semi-transparency, soft blur)
-- 🎨 Navbar background now becomes slightly opaque on scroll for better readability
-- 🌗 Implemented **text color transition** from white to black when scrolled to enhance contrast
-- 🧪 Ensured cross-browser support and responsiveness across all devices
-- 📁 Changes made in `Navbar.css`, `Navbar.jsx`, and global layout styles
-- 📸 Deployed & previewed successfully: [Netlify Preview](https://deploy-preview-19--flavorai.netlify.app)
-- ✅ PR: [#19](https://github.com/Ayushjhawar8/Flavor-ai/pull/19) • Related Issue: [#3](https://github.com/Ayushjhawar8/FlavorAI/issues/3)](https://github.com/Ayushjhawar8/Flavor-ai/issues/3#event-18770199871)
-- 🔖 Merged under `enhancement`, `Frontend`, `Level 2`, `gssoc25`
+- ☁️ AWS & Cloud-Native Architectures  
+- 🧩 Modular Monolith → Microservices  
+- 🪟 Glassmorphism + Motion UI  
+- 🤖 LLM-integrated Applications  
 
 ---
 
-## 🔥 Open Source Contributions (SSOC’25)
+## 🧰 Tech Toolbox
 
-### 🔸 [PromptShell CLI Tool](https://github.com/Kirti-Rathi/PromptShell)
-- 🔁 Enhanced command safety and exit functionality  
-  PR: [#30](https://github.com/Kirti-Rathi/PromptShell/pull/30)
+### 🤖 AI & ML
+<p>
+  <img src="https://img.shields.io/badge/Gen--AI-OpenAI%20%26%20Gemini-4285F4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%26%20TF-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-### 🔸 [Prateek9876/NagarVikas](https://github.com/Prateek9876/NagarVikas)
-- 📘 Improved documentation clarity and comment structure  
-  PR: [#22](https://github.com/Prateek9876/NagarVikas/pull/22)
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,springboot,python,go,js,ts,dart,flutter,cpp,react,nextjs&perline=11" />
+</p>
 
-### 🔸 [Kirti-Rathi/PromptShell](https://github.com/Kirti-Rathi/PromptShell)
-- 🔒 Added a second-layer safeguard for `CONFIRM:` commands to prevent accidental destructive actions  
-  PR: [#63](https://github.com/Kirti-Rathi/PromptShell/pull/63)
-
-### 🔸 [Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit](https://github.com/Nidhi-Satyapriya/auto-eda-automated-data-preprocessing-toolkit)
-- 📄 Enhanced the project's README with badges, quotes, and improved contributor-friendly structure  
-  PR: [#68](https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/68) — _merged_
-
-### 🔸 [SSOC/Open-PYQ](https://github.com/SSOC/Open-PYQ)  
-- 📘 Completed [Task 1.1.2 – Syllabus & Project Structure](https://github.com/SSOC/Open-PYQ/issues/13)  
-- 🏆 Earned **20 points** in **SSOC S4**  
-  🔗 PR: [#25](https://github.com/SSOC/Open-PYQ/pull/25)
-
-### 🔸 [Fenirok/Earthquake_app](https://github.com/Fenirok/Earthquake_app)
-- 🧭 Implemented time-range filter feature  
-  PR: [#25](https://github.com/Fenirok/Earthquake_app/pull/25)
-
-![Task Completed Screenshot](./assets/screen_shot.png)  
-_✅ Task officially marked as completed by the project maintainer._
-
-### 🔸 [Fenirok/Earthquake_app](https://github.com/Fenirok/Earthquake_app)
-- ♻️ Resolved merge conflict in `README.md` by merging content from both `time-range-filter` and `test1` branches  
-  - Cleaned up conflict markers  
-  - Combined and clarified setup steps, feature list, and contributing guidelines  
-  - Improved grammar, formatting, and consistency throughout the file  
-  - Ensured users are instructed to create PRs against the `test1` branch only  
-  PR: [#34](https://github.com/Fenirok/Earthquake_app/pull/34)
-
+### 🧪 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,mysql,mongodb,postman,linux,docker,bash&perline=9" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## ⭐ Featured Work
 
-- 📬 Email: [irajveer.bishnoi2310@email.com](mailto:irajveer.bishnoi2310@email.com)
-- 💼 LinkedIn: [linkedin.com/in/rajveerbishnoi](www.linkedin.com/in/rajveer-bishnoi-576b62356)
-
-- 🌐 GitHub: [@RAJVEER42](https://github.com/RAJVEER42)
-
----
-
-## ⚡ Fun Fact  
-> I bring the same fire from the **basketball court** to the **code editor** — teamwork, hustle, and precision matter everywhere! ✌️
+- 🚀 **FlavorAI** — UX Engineering & interaction logic  
+- 🛡️ **PromptShell** — Safety-first CLI systems  
+- 🔐 **PG-Genie** — Secure authentication UX  
+- 🌍 **DeshDarshan** — Glassmorphism UI navigation  
 
 ---
 
-> "I'm not a great programmer; I'm just a good programmer with great habits." — Kent Beck
+## 🎓 Academics & Certifications
 
-<!---
-RAJVEER42/RAJVEER42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+- 📜 Postman Student Expert  
+- ☁️ AWS Educate — ML Foundations  
+- 🛡️ Data Structures & Algorithms  
+- 🧠 Discrete Mathematics | 📊 Statistics  
+
+---
+
+## 🏀 Beyond the Screen
+
+State-Level Basketball player | Sports Leader | Engineer by discipline.
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAJVEER42&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
