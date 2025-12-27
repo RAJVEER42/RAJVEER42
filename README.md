@@ -125,5 +125,8 @@ State-Level Basketball player | Sports Leader | Engineer by discipline.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJVEER42&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=RAJVEER42&base=257&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" 
+  />
 </p>
+
